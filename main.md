@@ -45,6 +45,10 @@ und jetzt etwas ganz anderes
 Monty Python's Fliegender Zirkus
 
 ![](Pictures/zirkus.png)
+
+![](Pictures/dieGruppe.png)
+
+
 --
 <!--.slide: data-background-video="" data-background-video-loop="true" data-background-video-muted="true"-->
 
