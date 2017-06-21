@@ -64,7 +64,7 @@ Monty Python's Fliegender Zirkus
 --
 ![](Pictures/venedig3.png)
 ---
-![](Pictures/keineToilet1.png)
+![](Pictures/keineToilet.png)
 --
 ![](Pictures/keineToilet2.png)
 --
