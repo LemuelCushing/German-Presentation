@@ -7,6 +7,8 @@
 rancorous
 cantankerous
 ![](Pictures/cantankerous.png)
+
+
 --
 streitsüchtiger alter Mann 
 
@@ -55,7 +57,20 @@ Monty Python's Fliegender Zirkus
 --
 ![](Pictures/zirkus2.png)
 
+---
+![](Pictures/venedig1.png)
 --
+![](Pictures/venedig2.png)
+--
+![](Pictures/venedig3.png)
+---
+![](Pictures/keineToilet1.png)
+--
+![](Pictures/keineToilet2.png)
+--
+![](Pictures/keineToilet3.png)
+--
+
 
 ---
 ## Das Holzfäller-Lied
