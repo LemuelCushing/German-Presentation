@@ -1,91 +1,156 @@
-## Anglo-German Humor 
+## Hallo
 
-![](Pictures/oldMan.png)
+VVV
+Hallo leute,
 
-![](Pictures/sleeping.png)
+Ich heiße Gill, und es wird euch velleischt überraschen um tu hören, dass ich bin hier gewesen seit dem ersten tag! Meistens..
 
-rancorous
-cantankerous
-![](Pictures/cantankerous.png)
+---
+<!--.slide: data-background-image="./Pictures/cantankerous.png" class="text-bg-bw"-->
+### Streitsüchtiger alter Mann
+
+<div class="txt-overlay "><span class="txt-overlay">
+cantankerous old man
+</span></div>
+![](Pictures/cantankerous.png#cnt2)
+
+VVV
+
+Aber, weil ich ein streitsüchtiger alter Mann geboren wurde, ich meist sitze hinten und brummle oder nicke ein.
+Denn, wie ich habe schon gesagt, ich bin alt, und es ist spät..
+
+Aber, obwhol ich bin mürrisch Alter, ich habe ein dämlich Interesse an Komödie.So ich will euch ein bisschen erzählen ein wenig über deutsch-englische Komödie-Verbindung 
+
+---
+<!--.slide: data-background-image="./Pictures/sleeping.png" class="text-bg-clr"-->
+
+![](Pictures/sleeping.png#cnt2)
+
+<div class="txt-overlay "><span class="txt-overlay">
+<b>brummle</b> - grumble <br>
+<b>einnicken</b> - doze off <br>
+dämlich - geeky <br>
+Verbindung - connections
+</span></div>
+
+VVV
+
+Aber, weil ich ein streitsüchtiger alter Mann geboren wurde, ich meist sitze hinten und brummle oder nicke ein.
+Denn, wie ich habe schon gesagt, ich bin alt, und es ist spät..
+
+Aber, obwhol ich bin mürrisch Alter, ich habe ein dämlich Interesse an Komödie.So ich will euch ein bisschen erzählen ein wenig über deutsch-englische Komödie-Verbindung 
 
 
---
-streitsüchtiger alter Mann 
+---
+<!--.slide: data-background-image="./Pictures/eskimo.png" class="text-bg-clr"-->
+
+![](Pictures/eskimo.png#cnt2)
+<div class="txt-overlay fragment "><span class="txt-overlay">
+Schlager
+</span></div>
+
+VVV
+
+Die Deutschen sind nicht für den Humor bekannt. Aber meisten der Idee der ernsten Deutschen kommt aus Groß Britannien, und wir nahmen es, ein bisschen, solange wir wissen dass Filme wie Eskimo Limon waren eine Deutschen-Schlager! 
+---
+<!--.slide: data-background-image="./Pictures/eskimo.png" class="text-bg-clr"-->
+
+## Flachwitze 
+<blockquote>
+Zwei Männer gehen über eine Brücke. Der eine fällt ins Wasser, der andere heißt Helmut.
+</blockquote>
+
+VVV
 
 
+Ja, die Deutschen Flachwitze sind berühmt, beispielsweise - 
+"Zwei Männer gehen über eine Brücke. Der eine fällt ins Wasser, der andere heißt Helmut."
+Aber jeden land hat sie! 
 
-Weltschmerz
---
+("Two men walk over a bridge. One falls into the water, the other is called Helmut.").
+---
+
+VVV
+
+Englisch-Humor ist berühmt. 
+Aber, weiß jemand was ist die meisten wiederholt TV-Program in Deutschland?
+
+---
+<!--.slide: data-background-image="./Pictures/dinner.png" class="text-bg-bw"-->
 ![](Pictures/dinner.png)
---
-![](Pictures/dinner2.png)
-
 
 VVV
 
-Hello all,
-my name is Gill. You might not know me, because 
-It's just that I've been sitting at 
---
+Seit 1963, jeder Silvester, eine Show namens Der 90. Geburtstag, oder Dinner for One. Es handelt sich um einen etwa 18-minütigen Sketch des englischen Komikers Freddie Frinton mit seinem Partnerin May Warden. 
 
-Flachwitze
-
-Schnodderdeutsch
-
-Der 90. Geburtstag - Dinner for One - 1963 with Freddie Frinton and May Warden
+---
+<!--.slide: data-background-image="./Pictures/dinner2.png" class="text-bg-bw"-->
+<img data-src="./Pictures/dinner2.png#cnt2" width="400">
 
 VVV
 
-Der 90. Geburtstag oder Dinner for One ist eine Fernsehproduktion des NDR aus dem Jahr 1963. Es handelt sich um einen etwa 18-minütigen Sketch des englischen Komikers Freddie Frinton mit seiner Partnerin May Warden.
 
-In Deutschland ist der Sketch inzwischen fester Bestandteil des Silvester-Fernsehprogramms aller dritten Programme der ARD. Die Sendung ist die am häufigsten wiederholte des deutschen Fernsehens und wurde 1988 im Guinness-Buch der Rekorde als „weltweit am häufigsten wiederholte Fernsehproduktion“ aufgeführt. 2003 wurde der Sketch in Deutschland 19-mal ausgestrahlt, seit 1963 bis Ende 2003 insgesamt 231-mal.[3] Die Sendung hat Kultstatus und ist in vielen Haushalten fester Bestandteil des Tagesablaufs zu Silvester. So sahen beispielsweise im Rekordjahr 2004 insgesamt 15,6 Millionen Deutsche den Sketch.[4] 
+Es erzählt von Fräulein Sophie und ihre 90. Geburtstags feier. Wegen ihres langen Lebens sind die einzigen Gäste sie und ihr Butler, James. 
+James will nicht seinen Meister traurig, und so er vorgibt zu sein ihre toten Freunde. Gehen rund um den Tisch, er trinkt Glas nach Glas, bis er ist komplett betrunken! 
+
+Jeder Silvester! Seit 1963! fantastisch..!
+
 ---
-"Zwei Männer gehen über eine Brücke. Der eine fällt ins Wasser, der andere heißt Helmut." ("Two men walk over a bridge. One falls into the water, the other is called Helmut.").
+<!--.slide: data-background-image="./Pictures/zirkus.png" class="text-bg-clr"-->
+### und jetzt <br> etwas ganz anderes
 ---
-und jetzt etwas ganz anderes
---
+<!--.slide: data-background-image="./Pictures/dieGruppe.png" class="text-bg-bw"-->
 Monty Python's Fliegender Zirkus
 
-![](Pictures/zirkus.png)
+![](Pictures/zirkus.png#cnt2)
 
---
-![](Pictures/dieGruppe.png)
+VVV
+In 1972 wurde die englische Gruppe vom bayerischen Fernsehen eingeladen, eine deutsche Version ihrer Show aufzunehmen. 
+Die Pythons lernten hierfür den deutschen Text phonetisch auswendig, abgesehen von John Cleese - der ein bisschen deutsch spricht.
 
---
+---
+<!--.slide: data-background-image="./Pictures/zirkus2.png" class="text-bg-clr"-->
 ![](Pictures/dieGruppeFarbig.png)
 
---
-![](Pictures/zirkus2.png)
-
 ---
+<!--.slide: data-background-image="./Pictures/zirkus2.png" class="text-bg-clr"-->
 ![](Pictures/venedig1.png)
---
+<div class="txt-overlay"><span class="txt-overlay">
+Die Handlung - The plot
+<br>
+Unsinn - nonsense 
+</span></div>
+---
+<!--.slide: data-background-image="./Pictures/zirkus2.png" class="text-bg-clr"-->
 ![](Pictures/venedig2.png)
---
+---
+<!--.slide: data-background-image="./Pictures/zirkus2.png" class="text-bg-clr"-->
 ![](Pictures/venedig3.png)
 ---
+<!--.slide: data-background-image="./Pictures/zirkus2.png" class="text-bg-clr"-->
 ![](Pictures/keineToilet.png)
---
+---
+<!--.slide: data-background-image="./Pictures/zirkus2.png" class="text-bg-clr"-->
 ![](Pictures/keineToilet2.png)
---
+---
+<!--.slide: data-background-image="./Pictures/zirkus2.png" class="text-bg-clr"-->
 ![](Pictures/keineToilet3.png)
---
-
 
 ---
+<!--.slide: data-background-image="./Pictures/zirkus.png" class="text-bg-clr"-->
+
 ## Das Holzfäller-Lied
 
 ![](Pictures/holzfaller.png)
 
-vvv
-1972 wurde dieser Sketch von einem unbekannten Übersetzer ins Deutsche übertragen und für die erste Folge von Monty Pythons fliegender Zirkus aufgenommen. Die Pythons lernten hierfür den deutschen Text phonetisch auswendig. Auch sang in dieser Version kein Mountie-Chor den Refrain („Er ist ein Holzfäller und fühlt sich stark, er schläft des Nachts und hackt am Tag“), sondern ein Trupp deutscher Grenzpolizisten.
-
-In 1972, this sketch was translated into German by an unknown translator and recorded for the first episode of Monty Python's flying circus. The pythons learned the German text phonetically by heart. Also, in this version, no chorus chorus ("He is a lumberjack and feels strong, he sleeps at night and chops in the day"), but a troop of German border policemen.
-<!--.slide: data-background-video="" data-background-video-loop="true" data-background-video-muted="true"-->
+---
+<!--.slide: data-background-image="./Pictures/zirkus.png" class="text-bg-clr"-->
+## Das Holzfäller-Lied
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aiVOG199X2c" frameborder="0" allowfullscreen></iframe>
 
---
+---
+<!--.slide: data-background-image="./Pictures/zirkus.png" class="text-bg-clr"-->
 
 <div style="-webkit-columns: 400px 2; -moz-columns: 400px 2; columns: 300px 2; font-family: 'Bentham', serif;font-size:60%;text-align:left;background-color: rgba(0, 0, 0, .56);padding:14px;border-radius:7px;position:absolute;right:-100px;left:-100px;">
 Ich bin ein Holzfäller und fühl mich stark
