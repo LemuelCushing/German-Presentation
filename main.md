@@ -1,32 +1,79 @@
-## Structures, Networks And Organizational Culture In The Reproduction Of Inequality 
+## Anglo-German Humor 
 
+![](Pictures/oldMan.png)
+
+![](Pictures/sleeping.png)
+
+rancorous
+cantankerous
+![](Pictures/cantankerous.png)
+
+streitsüchtiger alter Mann 
+
+
+
+Weltschmerz
+
+![](Pictures/dinner.png)
+
+![](Pictures/dinner2.png)
+
+
+VVV
+
+Hello all,
+my name is Gill. You might not know me, because 
+It's just that I've been sitting at 
+--
+
+Flachwitze
+
+Schnodderdeutsch
+
+Der 90. Geburtstag - Dinner for One - 1963 with Freddie Frinton and May Warden
+
+VVV
+
+Der 90. Geburtstag oder Dinner for One ist eine Fernsehproduktion des NDR aus dem Jahr 1963. Es handelt sich um einen etwa 18-minütigen Sketch des englischen Komikers Freddie Frinton mit seiner Partnerin May Warden.
+
+In Deutschland ist der Sketch inzwischen fester Bestandteil des Silvester-Fernsehprogramms aller dritten Programme der ARD. Die Sendung ist die am häufigsten wiederholte des deutschen Fernsehens und wurde 1988 im Guinness-Buch der Rekorde als „weltweit am häufigsten wiederholte Fernsehproduktion“ aufgeführt. 2003 wurde der Sketch in Deutschland 19-mal ausgestrahlt, seit 1963 bis Ende 2003 insgesamt 231-mal.[3] Die Sendung hat Kultstatus und ist in vielen Haushalten fester Bestandteil des Tagesablaufs zu Silvester. So sahen beispielsweise im Rekordjahr 2004 insgesamt 15,6 Millionen Deutsche den Sketch.[4] 
 ---
+"Zwei Männer gehen über eine Brücke. Der eine fällt ins Wasser, der andere heißt Helmut." ("Two men walk over a bridge. One falls into the water, the other is called Helmut.").
+---
+und jetzt etwas ganz anderes
+--
+Monty Python's Fliegender Zirkus
 
-<h3>How to traverse this presentation</h3>
+![](Pictures/zirkus.png)
+--
+<!--.slide: data-background-video="" data-background-video-loop="true" data-background-video-muted="true"-->
 
-Please use <i class="fa fa-chrome" style="color:#FFFFFF;"></i> <code>Chrome</code> or <i class="fa fa-firefox" style="color:#FFFFFF"></i> <code>Firefox</code>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aiVOG199X2c" frameborder="0" allowfullscreen></iframe>
 
-The presentation is best viewed in fullscreen -<br> you can go to fullscreen by pressing <button id="button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"> here </button>.
-
-Press <code style="font-family: keysFont; font-size: 200%;">f</code> to toggle **f**ullscreen at any time<br>
-
-#### press <code>↓</code> now
 --
 
-<h3>How to traverse this presentation</h3>
-
-Every horizontal section is a broad subject<br>
-<code>←</code> and <code>→</code> arrows move between them<br>
-Use the <code>↑</code> and <code>↓</code> to travel deeper into a subject<br>
---
-<h3>How to traverse this presentation</h3>
-
-Press <span  style="font-family: keysFont; font-size: 200%;">o</span> to see an **o**verview of the entire presentation.
-
-Citations are indicated with a <sup class="tp" title="Uminski, Sigmund H. “Two Polish Confederates.” Polish American Studies 23, no. 2 (1966): 65–81. http://www.jstor.org/stable/20147720.">[№]</sup> and can be viewed by mousing over them.
---
-<h3>How to traverse this presentation</h3>
-
-The side-menu can be opened by clicking the <i class="fa fa-bars" style="color:#a23"></i> button on the bottom left.
-
-From there, you can navigate the slide or go the <i class='fa fa-book'></i> **Bibliography** or the <i class="fa fa-file-pdf-o" aria-hidden="true"></i> **printable version** of this presentation.  
+<div style="-webkit-columns: 400px 2; -moz-columns: 400px 2; columns: 300px 2; font-family: 'Bentham', serif;font-size:60%;text-align:left;background-color: rgba(0, 0, 0, .56);padding:14px;border-radius:7px;position:absolute;right:-100px;left:-100px;">
+Ich bin ein Holzfäller und fühl mich stark
+<br> Ich schlaf des Nachts und hack am Tag 
+<br> 
+<br> Er ist ein Holzfäller und fühlt sich stark
+<br> Er schlaft des Nachts und hackt am Tag 
+<br> 
+<br> Ich fälle Bäume, ich ess mein Brot, 
+<br> ich geh auf das WC
+<br> Am Mittwoch geh ich shopping,
+<br> kau Kekse zum kaffee 
+<br> 
+<br> Ich fälle Bäume und hupf und spring,
+<br> steck Blumen in die Vas
+<br> Ich schlupf in Frauenleider,
+<br> und lümmel mich in Bars 
+<br> 
+<br> Er ist ein Holzfäller und fühlt sich stark
+<br> Er schlaft des Nachts und hackt am Tag
+<br> 
+<br> Ich fälle Bäume,
+<br> trag Stöckelschuh und Strumpf und Büstenhalter
+<br> Wär gern ein kleines Mädchen,
+<br> so wie mein Onkel Walter 
+</div>
