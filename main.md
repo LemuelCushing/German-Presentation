@@ -7,15 +7,15 @@
 rancorous
 cantankerous
 ![](Pictures/cantankerous.png)
-
+--
 streitsüchtiger alter Mann 
 
 
 
 Weltschmerz
-
+--
 ![](Pictures/dinner.png)
-
+--
 ![](Pictures/dinner2.png)
 
 
@@ -46,10 +46,26 @@ Monty Python's Fliegender Zirkus
 
 ![](Pictures/zirkus.png)
 
+--
 ![](Pictures/dieGruppe.png)
 
+--
+![](Pictures/dieGruppeFarbig.png)
 
 --
+![](Pictures/zirkus2.png)
+
+--
+
+---
+## Das Holzfäller-Lied
+
+![](Pictures/holzfaller.png)
+
+vvv
+1972 wurde dieser Sketch von einem unbekannten Übersetzer ins Deutsche übertragen und für die erste Folge von Monty Pythons fliegender Zirkus aufgenommen. Die Pythons lernten hierfür den deutschen Text phonetisch auswendig. Auch sang in dieser Version kein Mountie-Chor den Refrain („Er ist ein Holzfäller und fühlt sich stark, er schläft des Nachts und hackt am Tag“), sondern ein Trupp deutscher Grenzpolizisten.
+
+In 1972, this sketch was translated into German by an unknown translator and recorded for the first episode of Monty Python's flying circus. The pythons learned the German text phonetically by heart. Also, in this version, no chorus chorus ("He is a lumberjack and feels strong, he sleeps at night and chops in the day"), but a troop of German border policemen.
 <!--.slide: data-background-video="" data-background-video-loop="true" data-background-video-muted="true"-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aiVOG199X2c" frameborder="0" allowfullscreen></iframe>
@@ -81,3 +97,14 @@ Ich bin ein Holzfäller und fühl mich stark
 <br> Wär gern ein kleines Mädchen,
 <br> so wie mein Onkel Walter 
 </div>
+
+---
+## Helge Schneider
+
+![](Pictures/helge.png)
+--
+![](Pictures/helge2.png)
+--
+![](Pictures/helge3.png)
+--
+![](Pictures/helge4.png)
